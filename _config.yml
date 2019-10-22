@@ -17,7 +17,7 @@ defaults:
       layout: "post"
 
 projects:
-  sort_by: stars
+  sort_by: pushed
   # sort_by options:
   #   - pushed
   #   - stars
@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+    # - Todo-List-Generator
 
 social_media:
   # behance: your_username
